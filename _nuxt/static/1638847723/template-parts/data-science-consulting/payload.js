@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template-parts/data-science-consulting", {data:[{}],fetch:{},mutations:void 0});
