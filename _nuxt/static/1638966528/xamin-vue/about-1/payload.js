@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/xamin-vue/about-1", {data:[{}],fetch:{},mutations:void 0});
