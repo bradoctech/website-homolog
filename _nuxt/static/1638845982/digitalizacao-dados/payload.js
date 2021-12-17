@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/digitalizacao-dados", {data:[{}],fetch:{},mutations:void 0});
