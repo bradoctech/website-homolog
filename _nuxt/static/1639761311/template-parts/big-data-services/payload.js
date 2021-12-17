@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template-parts/big-data-services", {data:[{}],fetch:{},mutations:void 0});

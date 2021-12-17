@@ -1,67 +1,4 @@
 /*!
- * Isotope v3.0.6
- *
- * Licensed GPLv3 for open source use
- * or Isotope Commercial License for commercial use
- *
- * https://isotope.metafizzy.co
- * Copyright 2010-2018 Metafizzy
- */
-
-/*!
- * Masonry layout mode
- * sub-classes Masonry
- * https://masonry.desandro.com
- */
-
-/*!
- * Masonry v4.2.2
- * Cascading grid layout library
- * https://masonry.desandro.com
- * MIT License
- * by David DeSandro
- */
-
-/*!
- * Name    : Just Another Parallax [Jarallax]
- * Version : 1.12.8
- * Author  : nK <https://nkdev.info>
- * GitHub  : https://github.com/nk-o/jarallax
- */
-
-/*!
- * Outlayer v2.1.1
- * the brains and guts of a layout library
- * MIT license
- */
-
-/*!
- * getSize v2.0.3
- * measure size of elements
- * MIT license
- */
-
-//! moment.js
-
-//! moment.js locale configuration
-
-
-/*!
- * VERSION: 2.0.2
- * DATE: 2018-08-27
- * UPDATES AND DOCS AT: http://greensock.com
- *
- * Includes all of the following: TweenLite, TweenMax, TimelineLite, TimelineMax, EasePack, CSSPlugin, RoundPropsPlugin, BezierPlugin, AttrPlugin, DirectionalRotationPlugin
- *
- * @license Copyright (c) 2008-2018, GreenSock. All rights reserved.
- * This work is subject to the terms at http://greensock.com/standard-license or for
- * Club GreenSock members, the software agreement that was issued with your membership.
- *
- * @author: Jack Doyle, jack@greensock.com
- **/
-
-
-/*!
   * Bootstrap v4.6.1 (https://getbootstrap.com/)
   * Copyright 2011-2021 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
@@ -162,6 +99,69 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
+
+
+/*!
+ * Isotope v3.0.6
+ *
+ * Licensed GPLv3 for open source use
+ * or Isotope Commercial License for commercial use
+ *
+ * https://isotope.metafizzy.co
+ * Copyright 2010-2018 Metafizzy
+ */
+
+/*!
+ * Masonry layout mode
+ * sub-classes Masonry
+ * https://masonry.desandro.com
+ */
+
+/*!
+ * Masonry v4.2.2
+ * Cascading grid layout library
+ * https://masonry.desandro.com
+ * MIT License
+ * by David DeSandro
+ */
+
+/*!
+ * Name    : Just Another Parallax [Jarallax]
+ * Version : 1.12.8
+ * Author  : nK <https://nkdev.info>
+ * GitHub  : https://github.com/nk-o/jarallax
+ */
+
+/*!
+ * Outlayer v2.1.1
+ * the brains and guts of a layout library
+ * MIT license
+ */
+
+/*!
+ * getSize v2.0.3
+ * measure size of elements
+ * MIT license
+ */
+
+//! moment.js
+
+//! moment.js locale configuration
+
+
+/*!
+ * VERSION: 2.0.2
+ * DATE: 2018-08-27
+ * UPDATES AND DOCS AT: http://greensock.com
+ *
+ * Includes all of the following: TweenLite, TweenMax, TimelineLite, TimelineMax, EasePack, CSSPlugin, RoundPropsPlugin, BezierPlugin, AttrPlugin, DirectionalRotationPlugin
+ *
+ * @license Copyright (c) 2008-2018, GreenSock. All rights reserved.
+ * This work is subject to the terms at http://greensock.com/standard-license or for
+ * Club GreenSock members, the software agreement that was issued with your membership.
+ *
+ * @author: Jack Doyle, jack@greensock.com
+ **/
 
 
 /*!
