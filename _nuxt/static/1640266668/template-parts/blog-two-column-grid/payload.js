@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/template-parts/blog-two-column-grid", {data:[{}],fetch:{},mutations:void 0});
