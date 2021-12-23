@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/Pln", {data:[{}],fetch:{},mutations:void 0});
