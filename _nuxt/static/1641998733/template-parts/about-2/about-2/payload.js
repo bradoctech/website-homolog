@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template-parts/about-2/about-2", {data:[{}],fetch:{},mutations:void 0});
