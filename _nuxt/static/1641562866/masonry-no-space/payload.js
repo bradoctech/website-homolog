@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/masonry-no-space", {data:[{}],fetch:{},mutations:void 0});
