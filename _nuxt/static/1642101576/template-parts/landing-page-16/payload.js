@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template-parts/landing-page-16", {data:[{}],fetch:{},mutations:void 0});
