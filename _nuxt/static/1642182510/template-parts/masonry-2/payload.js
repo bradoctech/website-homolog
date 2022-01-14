@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template-parts/masonry-2", {data:[{}],fetch:{},mutations:void 0});
