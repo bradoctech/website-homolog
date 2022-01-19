@@ -1,32 +1,4 @@
 /*!
-  * vue-router v3.5.3
-  * (c) 2021 Evan You
-  * @license MIT
-  */
-
-/*!
- * Vue.js v2.6.14
- * (c) 2014-2021 Evan You
- * Released under the MIT License.
- */
-
-
-/*!
- * VERSION: 2.0.2
- * DATE: 2018-08-27
- * UPDATES AND DOCS AT: http://greensock.com
- *
- * Includes all of the following: TweenLite, TweenMax, TimelineLite, TimelineMax, EasePack, CSSPlugin, RoundPropsPlugin, BezierPlugin, AttrPlugin, DirectionalRotationPlugin
- *
- * @license Copyright (c) 2008-2018, GreenSock. All rights reserved.
- * This work is subject to the terms at http://greensock.com/standard-license or for
- * Club GreenSock members, the software agreement that was issued with your membership.
- *
- * @author: Jack Doyle, jack@greensock.com
- **/
-
-
-/*!
   * Bootstrap v4.6.1 (https://getbootstrap.com/)
   * Copyright 2011-2021 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
@@ -130,14 +102,6 @@
 
 
 /*!
- * Chart.js v3.5.1
- * https://www.chartjs.org
- * (c) 2021 Chart.js Contributors
- * Released under the MIT License
- */
-
-
-/*!
  * Isotope v3.0.6
  *
  * Licensed GPLv3 for open source use
@@ -183,3 +147,39 @@
 //! moment.js
 
 //! moment.js locale configuration
+
+
+/*!
+ * VERSION: 2.0.2
+ * DATE: 2018-08-27
+ * UPDATES AND DOCS AT: http://greensock.com
+ *
+ * Includes all of the following: TweenLite, TweenMax, TimelineLite, TimelineMax, EasePack, CSSPlugin, RoundPropsPlugin, BezierPlugin, AttrPlugin, DirectionalRotationPlugin
+ *
+ * @license Copyright (c) 2008-2018, GreenSock. All rights reserved.
+ * This work is subject to the terms at http://greensock.com/standard-license or for
+ * Club GreenSock members, the software agreement that was issued with your membership.
+ *
+ * @author: Jack Doyle, jack@greensock.com
+ **/
+
+
+/*!
+ * Chart.js v3.5.1
+ * https://www.chartjs.org
+ * (c) 2021 Chart.js Contributors
+ * Released under the MIT License
+ */
+
+
+/*!
+  * vue-router v3.5.3
+  * (c) 2021 Evan You
+  * @license MIT
+  */
+
+/*!
+ * Vue.js v2.6.14
+ * (c) 2014-2021 Evan You
+ * Released under the MIT License.
+ */
