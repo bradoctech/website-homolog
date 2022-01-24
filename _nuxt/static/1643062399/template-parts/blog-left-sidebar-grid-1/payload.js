@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template-parts/blog-left-sidebar-grid-1", {data:[{}],fetch:{},mutations:void 0});
