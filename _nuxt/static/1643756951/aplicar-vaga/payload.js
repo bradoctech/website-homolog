@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/aplicar-vaga", {data:[{}],fetch:{},mutations:void 0});
