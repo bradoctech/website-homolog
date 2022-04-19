@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template-parts/blog-details", {data:[{}],fetch:{},mutations:void 0});
