@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/servicos/data-science", {data:[{}],fetch:{},mutations:void 0});
