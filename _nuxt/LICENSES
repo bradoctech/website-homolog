@@ -1,17 +1,4 @@
 /*!
-  * vue-router v3.5.3
-  * (c) 2021 Evan You
-  * @license MIT
-  */
-
-/*!
- * Vue.js v2.6.14
- * (c) 2014-2021 Evan You
- * Released under the MIT License.
- */
-
-
-/*!
  * VERSION: 2.0.2
  * DATE: 2018-08-27
  * UPDATES AND DOCS AT: http://greensock.com
@@ -122,6 +109,27 @@
 
 
 /*!
+  * vue-router v3.5.3
+  * (c) 2021 Evan You
+  * @license MIT
+  */
+
+/*!
+ * Vue.js v2.6.14
+ * (c) 2014-2021 Evan You
+ * Released under the MIT License.
+ */
+
+
+/*!
+ * Chart.js v3.5.1
+ * https://www.chartjs.org
+ * (c) 2021 Chart.js Contributors
+ * Released under the MIT License
+ */
+
+
+/*!
  * Isotope v3.0.6
  *
  * Licensed GPLv3 for open source use
@@ -167,11 +175,3 @@
 //! moment.js
 
 //! moment.js locale configuration
-
-
-/*!
- * Chart.js v3.5.1
- * https://www.chartjs.org
- * (c) 2021 Chart.js Contributors
- * Released under the MIT License
- */
