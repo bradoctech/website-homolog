@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/trabalhe-conosco", {data:[{}],fetch:{},mutations:void 0});

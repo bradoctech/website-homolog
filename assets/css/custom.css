@@ -1,0 +1,47 @@
+/*
+
+Template: Xamin - Vue
+Author: iqonic.design
+Version: 1.0
+Design and Developed by: iqonic.design
+
+NOTE: This is main stylesheet of template, This file contains the styling for the actual Template. Please do not change anything here! write in a custom.css file if required!
+
+*/
+
+.far, .fab, .fas{
+  font-weight: 900 !important;
+}
+
+/* Cores da Identidade Visual da Ai Solutions */
+
+.cor1,
+.cor1-text {
+  color: rgb(0,76,83);
+}
+.cor1-bg {
+  background-color: rgb(0,76,83);
+}
+.cor2,
+.cor2-text {
+  color: rgb(1,127,141);
+}
+.cor2-bg {
+  background-color: rgb(1,127,141);
+}
+.cor3,
+.cor3-text {
+  color: rgb(0,161,160);
+}
+.cor3-bg {
+  background-color: rgb(0,161,160);
+}
+
+.top0 {
+  top: 0 !important;
+}
+@media (min-width: 992px) {
+  .mh-lg-450 {
+    min-height: 450px;
+  }
+}
