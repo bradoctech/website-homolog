@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/template-parts/clients", {data:[{}],fetch:{},mutations:void 0});
